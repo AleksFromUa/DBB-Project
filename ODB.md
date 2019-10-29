@@ -95,7 +95,7 @@
 |Підтримка українського правопису|1|1|1|1|1|
 |Ф-ція українського правопису|1|1|1|1|1|
 
-**1.3** **NLP**
+## 1.3 NLP
 
 **Обробка природної мови** ([англ.](https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0 "Англійська мова")  _Natural-__language_ _processing,_ _NLP_) — загальний напрям [інформатики](https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0 "Інформатика"), [штучного інтелекту](https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%87%D0%BD%D0%B8%D0%B9_%D1%96%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D1%82 "Штучний інтелект") та [математичної лінгвістики](https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%BB%D1%96%D0%BD%D0%B3%D0%B2%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B0 "Математична лінгвістика"). Він вивчає проблеми [комп'ютерного аналізу](https://uk.wikipedia.org/w/index.php?title=%D0%9A%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7&action=edit&redlink=1 "Комп'ютерний аналіз (ще не написана)") та синтезу [природної мови](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0 "Природна мова"). Стосовно штучного інтелекту аналіз означає розуміння мови, а [синтез](https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B5%D0%B7 "Синтез") — генерацію розумного тексту. Розв'язок цих проблем буде означати створення зручнішої форми взаємодії комп'ютера та людини.
 
@@ -141,26 +141,6 @@
 
 Модель побудована на послідовні з _n_ елементів: речень, слів, букв, звуків і т. д. Модель дозволяє розрахувати ймовірність появи будь-якого елемента за відомих ймовірностей появи таких попередніх елементів. Така модель зводиться до скінченної множини ймовірностей, кожну з яких може бути оцінено після обчислення повторюваності відповідних _n_-грам.
 
-<![if !vml]>![Скругленный прямоугольник: Морфологічний аналіз](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image003.gif)<![endif]><![if !vml]>![Скругленный прямоугольник: Прагматичний аналіз](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image004.gif)<![endif]><![if !vml]>![Скругленный прямоугольник: Фонологічний аналіз](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image005.gif)<![endif]><![if !vml]>![Скругленный прямоугольник: Лексичний аналіз](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image006.gif)<![endif]><![if !vml]>![](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image007.gif)<![endif]><![if !vml]>![](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image008.gif)<![endif]><![if !vml]>![](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image009.gif)<![endif]><![if !vml]>![](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image010.gif)<![endif]><![if !vml]>![Овал:    Рівні обробки   природної мови
-
-](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image011.gif)<![endif]>**  
-  
-  
-  
-  
-  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
-
-<![if !vml]>
-
-![](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image012.gif)
-
-![](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image013.gif)
-
-<![endif]>
-
-  
 
 # Висновок
 
@@ -180,6 +160,6 @@
 5. Система електронного документообігу АСКОД [Електронний ресурс]. – Режим доступу : http://www.askodbuklet. – Назва з екрану.  
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTQ5ODM3MCwxNTE2NTg1MjYwLC0xNj
-A1Nzk3MDYyXX0=
+eyJoaXN0b3J5IjpbLTM3MzY1Mjg4LDE1MTY1ODUyNjAsLTE2MD
+U3OTcwNjJdfQ==
 -->
