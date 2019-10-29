@@ -115,7 +115,7 @@ A --> E(Семантичний аналіз)
 A --> F(Прагматичний аналіз)
 A --> G(Лексичний аналіз)
 ```
-
+## Розпізнавання іменованих сутностей
 **Розпізнавання іменованих сутностей (РІС)**  (також відоме як  **ідентифікація об'єктної сутності, фрагментація об'єктної сутності**  та  **видобуток об'єктної сутності**) — це підзадача  [видобування інформації,](https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85 "Добування даних")  яка намагається знайти і класифікувати  [іменовані сутності](https://uk.wikipedia.org/w/index.php?title=%D0%86%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0_%D1%81%D1%83%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C&action=edit&redlink=1 "Іменована сутність (ще не написана)")[[en]](https://en.wikipedia.org/wiki/Named_entity "en:Named entity")  в  [неструктурованому тексті](https://uk.wikipedia.org/w/index.php?title=%D0%9D%D0%B5%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%96_%D0%B4%D0%B0%D0%BD%D1%96&action=edit&redlink=1 "Неструктуровані дані (ще не написана)")[[en]](https://en.wikipedia.org/wiki/Unstructured_data "en:Unstructured data")  в заздалегідь визначені категорії, такі як імена людей, організації, місця,  [медичні коди](https://uk.wikipedia.org/w/index.php?title=%D0%9C%D0%B5%D0%B4%D0%B8%D1%87%D0%BD%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F&action=edit&redlink=1 "Медична класифікація (ще не написана)")[[en]](https://en.wikipedia.org/wiki/Medical_classification "en:Medical classification"), час, кількості, грошові значення, відсотки тощо.
 
 Більшість досліджень у системах РІС було структуровано як отримання не коментованого блоку тексту, такого як:
@@ -147,7 +147,7 @@ A --> G(Лексичний аналіз)
 5. Система електронного документообігу АСКОД [Електронний ресурс]. – Режим доступу : http://www.askodbuklet. – Назва з екрану.  
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjI4MjEwOCw1ODQyMjIwMywxNTQzNz
+eyJoaXN0b3J5IjpbLTQwMTE3ODM2Myw1ODQyMjIwMywxNTQzNz
 UxMDUzLDc4ODU3MTQxNiwxNTE2NTg1MjYwLC0xNjA1Nzk3MDYy
 XX0=
 -->
