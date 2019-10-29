@@ -150,9 +150,9 @@ A --> G(Лексичний аналіз)
 4. OPTiMA-WorkFlow [Электронный ресурс]. – Режим доступа : http://www.docva.ru/docflow/sys_review/25.php. – Название с экрана.  
 5. Система електронного документообігу АСКОД [Електронний ресурс]. – Режим доступу : http://www.askodbuklet. – Назва з екрану.  
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
-7. https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9
+7. Вільна енциклопедія Вікіпедія, стаття "Розпізнавання іменованих сутностей" https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDk1NDk1Myw1ODQyMjIwMywxNTQzNz
-UxMDUzLDc4ODU3MTQxNiwxNTE2NTg1MjYwLC0xNjA1Nzk3MDYy
-XX0=
+eyJoaXN0b3J5IjpbMjYzNTMxMTczLDE1ODQ5NTQ5NTMsNTg0Mj
+IyMDMsMTU0Mzc1MTA1Myw3ODg1NzE0MTYsMTUxNjU4NTI2MCwt
+MTYwNTc5NzA2Ml19
 -->
