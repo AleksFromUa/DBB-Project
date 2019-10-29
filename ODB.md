@@ -137,7 +137,7 @@ A --> G(Лексичний аналіз)
 1. "Наташа" — библиотека для извлечения структурированной информации из текстов на русском языке.
 3. NLP Architect — открытая и гибкая библиотека с алгоритмами для обработки текста, которая даёт возможность для взаимодействия разработчиков со всего мира.
 4. spaCy - це бібліотека програмного забезпечення з відкритим кодом для вдосконаленої обробки природних мов, написана мовами програмування Python та Cython.
-5. 
+5. StanfordNLP 0.2.0 - Python NLP Library for Many Human Languages
 
 
 # Список літератури
@@ -150,8 +150,8 @@ A --> G(Лексичний аналіз)
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
 7. Вільна енциклопедія Вікіпедія, стаття "Розпізнавання іменованих сутностей" https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM5MDg5ODUsLTI4Nzc3MTc0Nyw3Nj
-U0NjAyNzcsMTg0NTM5MDY0OCwyNjM1MzExNzMsMTU4NDk1NDk1
-Myw1ODQyMjIwMywxNTQzNzUxMDUzLDc4ODU3MTQxNiwxNTE2NT
-g1MjYwLC0xNjA1Nzk3MDYyXX0=
+eyJoaXN0b3J5IjpbLTg3ODkwNDIzNCwtMjg3NzcxNzQ3LDc2NT
+Q2MDI3NywxODQ1MzkwNjQ4LDI2MzUzMTE3MywxNTg0OTU0OTUz
+LDU4NDIyMjAzLDE1NDM3NTEwNTMsNzg4NTcxNDE2LDE1MTY1OD
+UyNjAsLTE2MDU3OTcwNjJdfQ==
 -->
