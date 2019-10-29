@@ -135,9 +135,10 @@ A --> G(Лексичний аналіз)
 Повне розпізнавання іменованої сутності часто розбивається, концептуально і, можливо, також в реалізації,[[6]](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9#cite_note-6)  як дві різні задачі: виявлення імен та  [класифікація](https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%97 "Задача класифікації")  їх по типу сутностей (наприклад, особи, організації, місця та інші[[7]](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9#cite_note-conll03intro2-7)). Перша фаза, як правило, зводиться до проблеми сегментації: імена визначаються як суміжні проміжки токенів, без вкладеності, таким чином «Банк Америки» є єдиним ім'ям, попри те, що всередині цього імені підрядок «Америки» є іншим ім'ям. Другий етап вимагає вибору  [онтології](https://uk.wikipedia.org/wiki/%D0%9E%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F_(%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0) "Онтологія (інформатика)"), за допомогою якої можна організувати категорії речей.
 ## Бібліотеки для NPL 
 1. "Наташа" — библиотека для извлечения структурированной информации из текстов на русском языке.
-3. NLP Architect — открытая и гибкая библиотека с алгоритмами для обработки текста, которая даёт возможность для взаимодействия разработчиков со всего мира.
-4. spaCy - це бібліотека програмного забезпечення з відкритим кодом для вдосконаленої обробки природних мов, написана мовами програмування Python та Cython.
-5. StanfordNLP 0.2.0 - Python NLP Library for Many Human Languages
+2. NLP Architect — открытая и гибкая библиотека с алгоритмами для обработки текста, которая даёт возможность для взаимодействия разработчиков со всего мира.
+3. [spaCy](https://spacy.io/) - це бібліотека програмного забезпечення з відкритим кодом для вдосконаленої обробки природних мов, написана мовами програмування Python та Cython.
+4. [StanfordNLP 0.2.0](https://stanfordnlp.github.io/stanfordnlp/) - Python NLP Library for Many Human Languages
+5. [AllenNLP](https://demo.allennlp.org/named-entity-recognition)
 
 
 # Список літератури
@@ -150,8 +151,8 @@ A --> G(Лексичний аналіз)
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
 7. Вільна енциклопедія Вікіпедія, стаття "Розпізнавання іменованих сутностей" https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODkwNDIzNCwtMjg3NzcxNzQ3LDc2NT
-Q2MDI3NywxODQ1MzkwNjQ4LDI2MzUzMTE3MywxNTg0OTU0OTUz
-LDU4NDIyMjAzLDE1NDM3NTEwNTMsNzg4NTcxNDE2LDE1MTY1OD
-UyNjAsLTE2MDU3OTcwNjJdfQ==
+eyJoaXN0b3J5IjpbOTEwMDA0NDQzLC0yODc3NzE3NDcsNzY1ND
+YwMjc3LDE4NDUzOTA2NDgsMjYzNTMxMTczLDE1ODQ5NTQ5NTMs
+NTg0MjIyMDMsMTU0Mzc1MTA1Myw3ODg1NzE0MTYsMTUxNjU4NT
+I2MCwtMTYwNTc5NzA2Ml19
 -->
