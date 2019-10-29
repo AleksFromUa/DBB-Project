@@ -136,7 +136,7 @@ A --> G(Лексичний аналіз)
 ## Бібліотеки для NPL 
 1. "Наташа" — библиотека для извлечения структурированной информации из текстов на русском языке.
 2. "AIF" — 
-
+3. NLP Architect — открытая и гибкая библиотека с алгоритмами для обработки текста, которая даёт возможность для взаимодействия разработчиков со всего мира.
 
 
 # Список літератури
@@ -149,7 +149,8 @@ A --> G(Лексичний аналіз)
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
 7. Вільна енциклопедія Вікіпедія, стаття "Розпізнавання іменованих сутностей" https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NDYwMjc3LDE4NDUzOTA2NDgsMjYzNT
-MxMTczLDE1ODQ5NTQ5NTMsNTg0MjIyMDMsMTU0Mzc1MTA1Myw3
-ODg1NzE0MTYsMTUxNjU4NTI2MCwtMTYwNTc5NzA2Ml19
+eyJoaXN0b3J5IjpbMTE1MDg2NTA3Niw3NjU0NjAyNzcsMTg0NT
+M5MDY0OCwyNjM1MzExNzMsMTU4NDk1NDk1Myw1ODQyMjIwMywx
+NTQzNzUxMDUzLDc4ODU3MTQxNiwxNTE2NTg1MjYwLC0xNjA1Nz
+k3MDYyXX0=
 -->
