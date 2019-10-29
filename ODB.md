@@ -100,6 +100,7 @@
 |Ф-ція українського правопису|1|1|1|1|1|
 
 ## 1.3 NLP
+
 ```mermaid
 graph LR
 A(Головні завдання) --> B(Видобування даних)
@@ -179,6 +180,6 @@ A --> G(Лексичний аналіз)
 5. Система електронного документообігу АСКОД [Електронний ресурс]. – Режим доступу : http://www.askodbuklet. – Назва з екрану.  
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mzc1MTA1Myw3ODg1NzE0MTYsMTUxNj
-U4NTI2MCwtMTYwNTc5NzA2Ml19
+eyJoaXN0b3J5IjpbNTg0MjIyMDMsMTU0Mzc1MTA1Myw3ODg1Nz
+E0MTYsMTUxNjU4NTI2MCwtMTYwNTc5NzA2Ml19
 -->
