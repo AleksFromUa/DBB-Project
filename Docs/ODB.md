@@ -164,7 +164,8 @@
 5. Система електронного документообігу АСКОД [Електронний ресурс]. – Режим доступу : http://www.askodbuklet. – Назва з екрану.  
 6. Програмний комплекс «Автоматизована система діловодства «ДОК ПРОФ 2.0» [Електронний ресурс]. – Режим доступу : http://krashiy.com/rus/nominations2006/?nid=17&id=31678&pid=423. – Назва з екрану.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTAzOTAwNSwtOTU2ODY2Mjg1LDE2Mj
-Q3NjIwOTEsLTE3NDQzOTA3OCwtNjk4NzQ5MTgzLC0xMjEwNTI5
-MjIyLDU1OTcwNzk0NSwxNjkyNjI3NTY3XX0=
+eyJoaXN0b3J5IjpbLTE2MDU3OTcwNjIsMTY0NTAzOTAwNSwtOT
+U2ODY2Mjg1LDE2MjQ3NjIwOTEsLTE3NDQzOTA3OCwtNjk4NzQ5
+MTgzLC0xMjEwNTI5MjIyLDU1OTcwNzk0NSwxNjkyNjI3NTY3XX
+0=
 -->
